@@ -78,9 +78,10 @@
 
   "BIO.NAME": "Name",
   "BIO.HOME_WORLD": "Home World",
-  "BIO.BACKGROUND": "Background",
-  "BIO.ROLE": "Role",
-  "BIO.ELITE": "Elite",
+  "BIO.BIRTHRIGHT": "Birthright",
+  "BIO.LURE_OF_THE_VOID": "Lure" ,
+  "BIO.TRIALS_AND_TREVAILS": "Trials",
+  "BIO.MOTIVATION": "Motivation",
   "BIO.GENDER": "Gender",
   "BIO.AGE": "Age",
   "BIO.BUILD": "Build",

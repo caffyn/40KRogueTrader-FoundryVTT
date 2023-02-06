@@ -1070,9 +1070,10 @@
       ],
       "bio": {
         "homeWorld": "",
-        "background": "",
-        "role": "",
-        "elite": "",
+        "birthright": "",
+        "lure": "",
+        "trials": "",
+        "motivation": "",
         "divination": "",
         "gender": "",
         "age": "",
