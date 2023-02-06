@@ -16,7 +16,7 @@ Copy-item -Path ".\template.json" -Destination ".\release\DarkHeresy2E-FoundryVT
 $compress = @{
 	Path = ".\release\*"
 	CompressionLevel = "Optimal"
-	DestinationPath = ".\dark-heresy.zip"
+	DestinationPath = ".\rogue-trader.zip"
 }
 Compress-Archive @compress
 
