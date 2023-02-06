@@ -6,9 +6,9 @@ export class AcolyteSheet extends DarkHeresySheet {
     return mergeObject(super.defaultOptions, {
       classes: ["rogue-trader", "sheet", "actor"],
       template: "systems/rogue-trader/template/sheet/actor/acolyte.html",
-      width: 700,
+      width: 800,
       height: 881,
-      resizable: false,
+      resizable: true,
       tabs: [
         {
           navSelector: ".sheet-tabs",
